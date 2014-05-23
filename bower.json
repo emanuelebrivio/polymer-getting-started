@@ -1,0 +1,22 @@
+{
+  "name": "polymer-getting-started",
+  "version": "0.0.0",
+  "homepage": "https://github.com/emanuelebrivio/polymer-getting-started",
+  "authors": [
+    "Emanuele Brivio <emanuele@plasticpanda.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.2.4",
+    "core-elements": "Polymer/core-elements#~0.2.4"
+  }
+}
